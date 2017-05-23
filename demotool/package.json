@@ -2,20 +2,21 @@
   "name": "demotool",
   "version": "1.0.0",
   "description": "demo command line tool",
-  "main": "index3.js",
+  "main": "index4.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "bin": {
-    "demotool": "./index3.js"
+    "demotool": "./index4.js"
   },
   "dependencies": {
     "chalk": "^1.1.3",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.9.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "progress": "^2.0.0"
   }
 }
