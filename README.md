@@ -1,4 +1,5 @@
 # node_command_line_tool
 Building command line tools with Node.js
 
-creating a new branch is quick and simple. dev test
+creating a new branch is quick and simple.
+OK
